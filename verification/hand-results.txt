@@ -1,0 +1,10 @@
+PASS: HIGH_CARD
+PASS: ONE_PAIR
+PASS: TWO_PAIR
+PASS: THREE_OF_A_KIND
+PASS: STRAIGHT
+PASS: FLUSH
+PASS: FULL_HOUSE
+PASS: FOUR_OF_A_KIND
+PASS: STRAIGHT_FLUSH
+PASS: 114 checks (categories, comparisons, Ace-low, invalid sizes, duplicate/null cards).
